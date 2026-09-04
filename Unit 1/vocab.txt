@@ -4,3 +4,7 @@ Code Environment- A digital space for building programs using code.
 Computing Terminal- A digital machine that runs code programs.
 Python- A programming language used to build a variety of software programs such as apps, games, and AI tools.
 Python Data Types - Strings, Integers, Floats, and Booleans.
+Predictive AI - Software that anazlyes data and makes probabilistic decisions. (weather forecasting, Netflix recommendations)
+Generative AI - Software that creates content such as text, images, audio, and video based on data. (chatGPT text, Sora images, Suno Sounds)
+Assitant AI- Software designed to interpret and interact with human language. (Alexa voice recognition, Customer service Chat bots)
+Recommendation AI - Software that analyzes individual data and makes probabilistic recommendations. (Social media algorithms, discover pages, internet ads)

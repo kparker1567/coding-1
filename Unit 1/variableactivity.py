@@ -37,6 +37,18 @@ gatoradeprice = 2.29
 spriteprice = 3.26
 OJprice = 2.15
 
+# Variable Naming Conventions
+# We use naming conventions because we CANNOT have spaces in
+# variable names
+
+# Camel Case - when creating variale names with multiple words,
+# every new word begins with a capital latter
+# the reason why its called camel case is because every new word
+# represents a hump.
+
+usernamefornewinstagramaccounts = 0 # no camel case
+
+usernameForNewInstagramAccounts = 0 # with camel case
 
 
 
@@ -45,8 +57,12 @@ OJprice = 2.15
 
 
 
-
-
+# Snake Case - when creating a variable using snake case
+# we use an nunderscore symnol to space out each new word
+# the reason why its called snake case is because the underscore
+# represents a snake on the ground  new_word_
+usernamefornewinstagramaccounts = 0 # no snake case
+username_for_new_instagram_accounts
 
 
 
