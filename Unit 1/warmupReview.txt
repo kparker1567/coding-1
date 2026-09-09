@@ -1,0 +1,5 @@
+1. The 4 data types we've learned are Strings, Integers, Floats, and Booleans.
+2. A code repository is basically a coding space for storing folders and files.
+3. A computer keyboard would be an input device. The keyboard sends a signal to the computer, which is the output device, to type whatever you want.
+4. A variable is basically a space that stores data.
+5. A variable must start with a letter and not a number.
