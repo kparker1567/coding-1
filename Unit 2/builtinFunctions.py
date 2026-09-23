@@ -14,6 +14,7 @@
 
 
 
+
 # Data casting functions
 # these are built in functions (pre-written instructions)
 # that change data types from one form into another
@@ -36,7 +37,14 @@ print( "good" + "bye")
 
 num1 = input("type in a number") 
 #input always returns a string
-print( 4 + num1)
+print(4 + int(num1))
+
+# Float() - A function that will change any datatype
+# passed into it, into a float / decimal number
+
+num2 = input('type in a number')
+# input always returns a string
+print(9 + float(num2))
 
 
 
@@ -44,5 +52,3 @@ print( 4 + num1)
 
 
 
-
-# float()-
