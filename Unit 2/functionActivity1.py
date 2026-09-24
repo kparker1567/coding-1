@@ -16,8 +16,8 @@ print(int(76) > 85)
 
 #2.) adding a numeric input to 360
 # should print out 500
-num2 = input("hey im here type something")
-print(360 + int(num2))
+num2 = input("hey im here type something")  # input alwyas takes data as a string
+print(int(num2) + 360)
 
 
 
@@ -29,7 +29,11 @@ print(360 + int(num2))
 # should print out true
 
 
-print("Boys Latin" == 'Boys Latin')
+val= input ("")
+val2= "Boys Latin"
+print(val == val2)
+
+
 
 
 
