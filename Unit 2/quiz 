@@ -1,0 +1,9 @@
+
+
+
+
+
+print(GPA > 85 and credits > 40)
+
+
+

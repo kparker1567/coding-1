@@ -45,4 +45,3 @@ parentContact2 = True
 
 print(parentContact1 == True or parentContact2 == True)
 
-
