@@ -37,7 +37,7 @@ def calculate_multiply():
     print("program has started: please type in 2 numbers to multiply")
     num6 = int (input())
     num7 = int (input())
-    print( num6 - num7)
+    print( num6 * num7)
     print("Program has ended")
 
 calculate_multiply()
@@ -56,7 +56,7 @@ def calculate_divide():
     print("program has started: please type in 2 numbers to divide")
     num9 = int (input())
     num20 = int (input())
-    print( num9 - num20)
+    print( num9 / num20)
     print("Program has ended")
 
 calculate_divide()
