@@ -1,0 +1,14 @@
+1.) Documentation is basically a collection of documents to tell you how to do something. In this case, we're talking about code 
+# documentation so it basically tells u how code works and how you use it.
+
+2.) Having good documentation would be beneficial to building the game because it can help with tons of things. For starters,
+# if you don't know how to put music in the game that you and your team are creating, then it can help by telling you how.
+# Another way it can help is by giving you a variety of basic instructions that you're not familiar with. One more way it can help is by
+# instructing you on how to make certain movements such as walking or jumping.
+
+
+3.) External documentation is used by developers outside of an organization, while internal documentation is used by developers
+# inside of an organization.
+
+4.) No, you do not need to know how to code to read code documentation. This is because most of the instructions written in code
+# documentations are usually in plain english. It gives you a thorough understanding, but it may give you examples using code.
