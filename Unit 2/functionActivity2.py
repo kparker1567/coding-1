@@ -1,6 +1,6 @@
 # PROBLEM #1
 # CREATE A FUNCTION THAT WILL TAKE IN 2 INPUTS AND
-# COMPAR ETHEM
+# COMPARE THEM
 
 # Your inputs should compare if the first input is
 # less than the second input
@@ -16,7 +16,7 @@ def compareValue():
 
  # when the button is clicked do this
 
-#compareValue()
+compareValue()
 
 
 #PROBLEM #2
@@ -30,10 +30,9 @@ def compareValue():
 # of abscences is less than 5, the program should print 
 # true, otherwise it should print false
 
-def compareValue():
+def compare_Value():
     grade= int(input())
     absence= int(input())
-    print(grade < absence)
-    print(grade > 90 and abscence < 5)
-   
- compareValue()
+    print(int(grade) > 90 and (absence) < 5)
+
+compare_Value()
