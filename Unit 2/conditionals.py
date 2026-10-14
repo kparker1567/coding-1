@@ -41,4 +41,53 @@ def ccp():
 
     
 college()
+
     
+
+
+def calculate_add():
+    print("program has started: please type in 2 numbers to add")
+    num1 = int(input())
+    num2 = int(input())
+    print( num1 + num2)
+    print("Program has ended")
+
+def calculate_subtract():
+    print("program has started: please type in 2 numbers to asubtract")
+    num1 = int(input())
+    num2 = int(input())
+    print( num1 - num2)
+    print("Program has ended")
+
+def calculate_multiplication():
+    print("program has started: please type in 2 numbers to multiply")
+    num1 = int(input())
+    num2 = int(input())
+    print( num1 * num2)
+    print("Program has ended")
+
+def calculate_division():
+    print("program has started: please type in 2 numbers to divide")
+    num1 = int(input())
+    num2 = int(input())
+    print( num1 / num2)
+    print("Program has ended")
+
+def mainCalculator():
+    print("main calculator is running...")
+    selection = int(input())
+    if selection == 1:
+        calculate_add()
+    elif selection == 2:
+        calculate_subtract()
+    elif selection == 3:
+        calculate_multiplication()
+    elif selection == 4:
+        calculate_division()
+    else:
+        print("sorry I dont understand your selection")
+
+mainCalculator()    
+        
+
+   
