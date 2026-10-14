@@ -53,7 +53,7 @@ def calculate_add():
     print("Program has ended")
 
 def calculate_subtract():
-    print("program has started: please type in 2 numbers to asubtract")
+    print("program has started: please type in 2 numbers to subtract")
     num1 = int(input())
     num2 = int(input())
     print( num1 - num2)
@@ -87,7 +87,14 @@ def mainCalculator():
     else:
         print("sorry I dont understand your selection")
 
-mainCalculator()    
+mainCalculator()
+
+
+
+def movie_ticketprogram():
+    print(Program has started: please type in a number)
+    selection = int(input())
+    if selecton = 1-7
         
 
    
