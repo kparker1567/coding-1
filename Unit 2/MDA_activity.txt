@@ -1,0 +1,9 @@
+M - foundational rules, (how do u play?)
+D - creativity
+A - art
+
+
+
+Flappy Bird's foundational rules is to avoid the incoming pipes that are heading your way and obtain a highscore. Most games use walking as movement, 
+but this game only consist's of flying, which most of the time, is the spacebar. The art mainly looks pixelated or 8-bit to appeal to kids and even adults who want a simple,
+non-complex game.
