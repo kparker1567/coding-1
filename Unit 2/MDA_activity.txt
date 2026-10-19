@@ -1,9 +1,27 @@
-M - foundational rules, (how do u play?)
-D - creativity
-A - art
+Mechanics - Foundational rules/algorithms of the games
+Dynamics - Emergent Behavior during play
+art - Visual style of the game
 
 
 
 Flappy Bird's foundational rules is to avoid the incoming pipes that are heading your way and obtain a highscore. Most games use walking as movement, 
 but this game only consist's of flying, which most of the time, is the spacebar. The art mainly looks pixelated or 8-bit to appeal to kids and even adults who want a simple,
 non-complex game.
+
+
+
+
+
+
+1.)I plan to make a stickman game based off the show "Jojo's Bizzare Adventure." It'll mostly be inspired by the game "Stickman Clash."
+
+2.) This games actions will mainly consist of fighting. 2 players will have a battle to the death and they have to use their abilities,
+which are called "stands." Each stand has extremely unique abilities, such as "Killer queen", "D4C", "Tusk act 4" , etc.
+
+3.) If that player ends up defeating the other, their win ratio goes up by 1.
+
+4.) If that player ends up losing to the other, their lose ratio goes up by 1.
+
+5.)        1. Stickman Clash (Extremely similar to what i'm trying to make, but doesn't have the abilities im going for)
+           2. Battle of the red and blue agents (also has a similar style, but doesnt have the abilities im going for)
+           3. Jojos Bizzare Adventure: All star battle (Definitely NOT similar in style, but it has the same abilities that im referring to.)

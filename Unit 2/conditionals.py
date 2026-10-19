@@ -103,7 +103,7 @@ def ticketPrices():
     elif age >= 61:
         print("Your ticket is free")
 
-        ticketPrices()
+ticketPrices()
 
 
 
