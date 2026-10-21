@@ -30,8 +30,9 @@ def guessingGame():
         while userGuess != correctAnswer:
             print("Sorry, that isn't the correct answer. Guess again!")
             attempts+= 1
-            print(attempts)
+            print("attempts")
             userGuess = int(input("Please try another number:"))
+
             print("Congrats! You've guessed the correct answer. game overrr")
 
 guessingGame()
@@ -39,4 +40,43 @@ guessingGame()
 
 
 
+# Question 1
+# password reset function. Your function should take in a user password as an input.
+# Within the function there should be a 
+# variable that contains the correct password.
+# the user should be able to attempt to enter the password 4 times.
+# On the fourth attemot fof getting the passowrd incorect,
+# it should print out a message telling the user that
+# their accoutn has been lcoked. If the user gets the password
+# correct it should print out a message telling them
+# they can access their account.
 
+
+
+
+def passwordReset():
+        correctPassword = '9383'
+        attempts = 4
+
+        print("Welcome, please enter your password")
+        userPassword = input()
+    
+        
+
+        while userPassword != correctPassword and attempts > 0:
+            print("Sorry, that isn't the correct Password")
+            attempts -= 1
+            print("number of attempts left: " + str(attempts))
+            userPassword = input("Please try again")
+        print("You are locked out, try again in the next 15 minutes...")
+
+        else
+        print("You now have access...")
+            
+
+            
+        
+
+            
+
+passwordReset()   
