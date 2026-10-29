@@ -11,12 +11,12 @@ def rockpaper_scissors():
     rounds = 0
     
     print("Welcome to Rock, Paper, and Scissors!")
-    print("Rules: Enter r, p, or s to play. Beat the CPU to win points!")
+    print("Rules: Enter r, p, or s to play. Beat the CPU to win as many points as you can!")
     
     while True:
         if rounds == 3:
             print(" Game Over...")
-            print(f"Final Score -> You: {score} points | CPU: {cpu_score} points")
+            print(f"Final Score -> You: {score} points and CPU: {cpu_score} points")
             break
 
         choice = input("Enter 'r' for rock, 'p' for paper, 's' for scissors or 'q' to quit: ")

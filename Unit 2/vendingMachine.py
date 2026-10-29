@@ -31,6 +31,9 @@ def vending_Machine():
         elif userChoice == 'Q':
             print("Have a good day.")
             break
+        else:
+            print("Invalid Input. Please enter a valid input to proceed with your purchase.")
+        
 
 vending_Machine()
 
