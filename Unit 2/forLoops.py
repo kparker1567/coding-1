@@ -49,3 +49,47 @@ for i in 'school':
 
         if grades<85:
             print(grades)
+
+# List are collection types for storing multiple pieces of data.
+# Key elements and purposes for lists:
+# List are organized and structured
+# List can be manipulated and modified - mutable(means changeable)
+# List items are accessible and usable
+
+# When we want to access an item in a list, we use the indexing system.
+# every item in a list is numbered.
+# a list index always starts at zero(0)
+
+#ex:
+inventory= ['sword' ,'shield' , 'healing potion' , 'armor']
+
+print(inventory[0]) #indicates that im going to the first position in the list
+
+# When we want to add an item to our list, we use the append() method
+
+#inventory.append('knife')
+#print(inventory)
+
+
+
+
+
+
+# Use a method to remove the healing potion from the list:
+inventory.remove('healing potion')
+print(inventory)
+
+# use a method to add a 'warhammer' to the end of the list
+inventory= ['sword' ,'shield' , 'healing potion' , 'armor']
+weapon= ['warhammer']
+
+inventory.extend(weapon)
+print(inventory)
+
+
+# Use a method to add a new 'healing potion' to index 4 of the list
+inventory.insert(4, 'healing potion')
+print(inventory)
+
+
+
