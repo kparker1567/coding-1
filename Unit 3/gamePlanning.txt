@@ -1,0 +1,16 @@
+1.) stand clash is a stickman game inspired by the show, 'jjba', and the game 'stickman clash.'In this game, you fight to the death and try your best to get 
+the highest win ratio.
+This game will consist of many abilities. These abilities are called stands, which are very unique.
+
+2.) In this game, there are a few controls that are definitely important. Your main movement will be wasd or arrow keys, whichever you prefer. W is to jump in any direction, A 
+is to walk left, S is 
+to use your shield and move down (you must hold the S key down for 3 seconds to use the shield, and a green bar will appear over your head, indicating 
+that you're forming the shield.), and lastly, D is to move right. These same rules will apply to the arrow keys aswell. If you double-click at least one key in any direction,
+your ability will be used.
+
+
+
+3.) In this game, I'll need many objects, including a variety of maps, characters, and the abilities. In the maps, I'll have to determine the size, how many pixels I
+need for said map, and the background including maybe a sky or something similar. For the characters, I'll have to make sure they have the same proportions. The abilities
+may be the hardest to do because they're extremely diverse. One ability I'll definitely add is called "Killer queen" and I need to make sure its function works. For instance,
+the ability is that anything you touch turns into a bomb, and I'll have to make sure that whatever turns into a bomb includes the characters itself and parts of the map.
