@@ -14,3 +14,4 @@ your ability will be used.
 need for said map, and the background including maybe a sky or something similar. For the characters, I'll have to make sure they have the same proportions. The abilities
 may be the hardest to do because they're extremely diverse. One ability I'll definitely add is called "Killer queen" and I need to make sure its function works. For instance,
 the ability is that anything you touch turns into a bomb, and I'll have to make sure that whatever turns into a bomb includes the characters itself and parts of the map.
+
