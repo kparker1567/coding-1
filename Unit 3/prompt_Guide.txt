@@ -1,27 +1,31 @@
-1.) Stand clash is a stickman game based on jjba. You fight other people/cpu's with your unique abilities called "stands" and gain the 
+1.) Stand clash is a stickman game based on Jojo's Bizzare adventure. You fight other players/cpu's with your unique abilities called 
+"stands" and gain the
 highest win-ratio in a variety of maps. What makes this game challenging is the abilities themselves. Some stands can counter
-other stands, and you have to be extremely strategic to avoid certain attacks.
+other stands, and you have to be extremely strategic to avoid certain attacks because some can block-break.
 
-2.) When you load into the game, there is a welcome screen. You have the option to go to settings to change controls, fight bosses,
+2.) When you load into the game, there is a welcome screen. You have the option to go to settings to change controls, fight a boss(Jotaro)
 or click play to fight other players/cpu's.
 
 3.) Some game objects that will be in the game are the abilities and the maps. Stands are extremely diverse, so not every ability
-is the same. For instance, you can have an ability that simply turns anything into a bomb, and an ability that can interact with universes
-or swap dimensions. There will be a variety of maps to interact with.
+is the same. For instance, you can have an ability that simply turns anything into a bomb(Killer Queen), 
+and an ability that can stop time(Star platinum). 
+There will be a variety of maps to play in, specifically places from JoJo Bizzare adventure such as morioh.
 
 4.) The control scheme will consist of a few controls, mainly for movement, shielding yourself, and using your ability.
-    W A S D - W is to jump, A is to move left, S is to hold down (which activates your shield if you hold it down for 3 seconds), D is
+    W A S D - W is to jump, A is to move left, S is to move down (which activates your shield if you hold the key down for 3 seconds),D is
     to move right. Q is to summon your stand so your ability can then be activated.  You must release one of your keys (WASD)
-     in any direction to use your ability. With two player, the other person's controls will be I J K L or arrows, which is very similar 
-     to W A S D. Again, controls can always be changed in settings.
+     in any direction to use your ability. With two player, the other person's controls will be I J K L , which is very similar 
+     to W A S D. The only difference is that you summon your stand by clicking U. Again, controls can always be changed in settings.
 
 
-5.) If you're fighting a CPU, it will choose a random stand and random map each round. You can change the difficulty of the CPU to make it more
-advanced/"Player-like" if you want more of a challenge, and you can make it easier. If you're doing two-player, both you and the other
-player can choose your own stands and even the map. For the obstacle objects, they may be random lasers or spikes on the ground
+5.) If you're fighting a CPU, you can choose a random stand for both you and the bot and a random map each round. 
+You can change the difficulty of the CPU to make it more
+advanced/"Player-like" if you want more of a challenge, and you can even make it easier. If you're doing two-player, both you and the other
+player can choose your own stands and even the map. For the obstacle objects, there may be random lasers or spikes on the ground in certain maps
 that can do damage to the player. They must avoid them.
 
-6.) If you get your opponents health to zero with your stand, or if they somehow die to the environment due to obstacles, you win, or
+6.) If you get your opponents health to zero with your stand, or if they somehow die to the environment due to obstacles, you win. Once
+they lose, you will have the option to retry or go back to the menu to change your stand.
 
 
 
